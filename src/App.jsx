@@ -5,7 +5,7 @@ import Home from './pages/home/Home'
 import Products from "./pages/products/Products"
 import Cart from "./pages/cart/Cart"
 import Fotter from './components/navbar/fotter/Fotter'
-import ProductDetail from './pages/products/productDetail'
+import ProductDetail from "./pages/products/ProductDetail.jsx";
 import ContactUs from './pages/contactus/ContactUs'
 const App = () => {
   return (
